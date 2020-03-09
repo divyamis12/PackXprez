@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "PackXprezDBConnectionString": "data source=(localdb)\\MSSQLLocalDB;initial catalog=PackXpreZDB1;integrated security=True;"
+  }
+}
